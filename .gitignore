@@ -1,0 +1,7 @@
+
+.env
+.venv
+Logs.txt
+__pycache__/
+/ACL
+Files/autorun.sh
