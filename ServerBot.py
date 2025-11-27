@@ -3,7 +3,7 @@ import os
 
 ver = "1.9.3-base"
 displayname='ServerBot'
-extendedErrMess = True
+extendedErrMess = False
 
 def os_selector():
     print(f"====ServerBot v{ver} Recovery Menu====")
@@ -195,9 +195,6 @@ Thanks to:
 
 Source: ```https://github.com/kamile320/ServerBot-Base```
 Discord Server: [Here](https://discord.gg/UMtYGAx5ac)
-
-Used Sounds:
-    WinXP/98 sounds -> files from OG OS by Microsoft
 """)
 
 #2   
